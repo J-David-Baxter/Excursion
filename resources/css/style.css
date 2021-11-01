@@ -25,3 +25,8 @@ html {
     font-size: 21px;
     color: gray;
 }
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
