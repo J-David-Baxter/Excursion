@@ -1,13 +1,13 @@
 html {
     background-color: black;
     font-family: Verdana;
+    text-align: center;
 }
 
 .header {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 .link {
@@ -15,6 +15,3 @@ html {
     font-size: 16px;
 }
 
-.link-container {
-    text-align: center;
-}
